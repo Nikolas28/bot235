@@ -8,7 +8,7 @@ from openai import AsyncOpenAI
 TELEGRAM_TOKEN = "7866842377:AAFNpJH92-muTUG9Qy6dofrx-MN3H3RCuOM"
 
 # API ключ OpenRouter
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 
 # Включаем логирование
 logging.basicConfig(level=logging.INFO)
